@@ -1,0 +1,15 @@
+li{
+  list-style-type:none;
+  font-size: 18px;
+}
+.languages{
+  list-style-type: disc;
+  font-weight: bold;
+}
+p{
+  font-weight: 600;
+}
+
+.flag{
+  width: 200px;
+}
