@@ -36,5 +36,5 @@ The app will be available at `http://localhost:3000` in your web browser.
 
 
 
-# Acknowledgements
+## Acknowledgements
 - This project was created as a practice exercise for the Full Stack Open course.
