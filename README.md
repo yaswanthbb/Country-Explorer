@@ -35,4 +35,6 @@ The app will be available at `http://localhost:3000` in your web browser.
 - OpenWeatherMap API - A weather data API
 
 
-This project was created as a practice exercise for the Full Stack Open course.
+
+# Acknowledgements
+- This project was created as a practice exercise for the Full Stack Open course.
