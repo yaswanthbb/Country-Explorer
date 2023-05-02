@@ -33,3 +33,6 @@ The app will be available at `http://localhost:3000` in your web browser.
 - React - A JavaScript library for building user interfaces
 - Axios - A promise-based HTTP client for JavaScript
 - OpenWeatherMap API - A weather data API
+
+
+This project was created as a practice exercise for the Full Stack Open course.
